@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "392560170530",
+    "firebase_url": "https://fir-instaclone-c6ffc.firebaseio.com",
+    "project_id": "fir-instaclone-c6ffc",
+    "storage_bucket": "fir-instaclone-c6ffc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392560170530:android:b820ccce0566b244",
+        "android_client_info": {
+          "package_name": "com.ua.instacloneparse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392560170530-6fqm4b8e2tihchrvil114bbg5uojmlhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpYSM8WlCOua07wWSM-3v3Hxikj-xLXd4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392560170530:android:1d9500c86a356197",
+        "android_client_info": {
+          "package_name": "com.ua.instaclonefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392560170530-h1mh9tsc9br0uf38c8p2t2bh1smksti9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ua.instaclonefirebase",
+            "certificate_hash": "25694e9c451514dfd241c4d821a0a56f43880f8e"
+          }
+        },
+        {
+          "client_id": "392560170530-6fqm4b8e2tihchrvil114bbg5uojmlhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpYSM8WlCOua07wWSM-3v3Hxikj-xLXd4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392560170530-6fqm4b8e2tihchrvil114bbg5uojmlhj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "392560170530-5ut4rap9t5r5t7lr8se1biioqub8ekur.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.test.instaclonefirebase"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
